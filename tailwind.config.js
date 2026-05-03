@@ -67,13 +67,13 @@ module.exports = {
           "rule-thin": "1px"
       },
       "fontFamily": {
-          "headline-lg": ["Newsreader"],
-          "label-sm": ["Work Sans"],
-          "headline-md": ["Newsreader"],
-          "meta-info": ["Work Sans"],
-          "body-lg": ["Newsreader"],
-          "headline-xl": ["Newsreader"],
-          "body-md": ["Newsreader"]
+          "headline-lg": ["ui-serif", "Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
+          "label-sm": ["ui-sans-serif", "system-ui", "sans-serif"],
+          "headline-md": ["ui-serif", "Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
+          "meta-info": ["ui-sans-serif", "system-ui", "sans-serif"],
+          "body-lg": ["ui-serif", "Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
+          "headline-xl": ["ui-serif", "Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
+          "body-md": ["ui-serif", "Georgia", "Cambria", '"Times New Roman"', "Times", "serif"]
       },
       "fontSize": {
           "headline-lg": ["42px", {"lineHeight": "1.2", "letterSpacing": "-0.01em", "fontWeight": "700"}],
