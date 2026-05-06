@@ -1,6 +1,6 @@
 # ramratan.in
 
-A fast-loading, edge-delivered, single-file portfolio optimized for both humans and AI crawlers. Zero JavaScript. Zero external requests. One HTTP response.
+A fast-loading, edge-delivered, super-optimized portfolio for both humans and AI crawlers. 
 
 🔗 **[ramratan.in](https://ramratan.in)**
 
